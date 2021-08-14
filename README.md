@@ -1,2 +1,2 @@
 # SCRIPT
-reverse shell script for winsows dan *nix
+reverse shell script for winsows and *nix
